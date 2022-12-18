@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PPPfront/static/css/main.6bb07e92.css",
+    "main.js": "/PPPfront/static/js/main.1c91b5c1.js",
+    "static/js/787.c62a1c47.chunk.js": "/PPPfront/static/js/787.c62a1c47.chunk.js",
+    "index.html": "/PPPfront/index.html",
+    "main.6bb07e92.css.map": "/PPPfront/static/css/main.6bb07e92.css.map",
+    "main.1c91b5c1.js.map": "/PPPfront/static/js/main.1c91b5c1.js.map",
+    "787.c62a1c47.chunk.js.map": "/PPPfront/static/js/787.c62a1c47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb07e92.css",
+    "static/js/main.1c91b5c1.js"
+  ]
+}
